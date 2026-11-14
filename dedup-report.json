@@ -1,0 +1,136 @@
+{
+  "input": 34,
+  "output": 8,
+  "removed": [
+    {
+      "bundleIdentifier": "com.firecore.infuse",
+      "kept": "Infuse (Moe Plus)",
+      "removed": "Infuse (Plus 2.5)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTK)",
+      "removed": "YouTube (Moe Multi)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTK)",
+      "removed": "YouTube (YTPlus Cyan Edition)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTK)",
+      "removed": "YouTube (LRD)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTK)",
+      "removed": "YouTube (DLTube, Moe Patched)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTK)",
+      "removed": "YouTube (Moe DLTube, Cracked)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTK)",
+      "removed": "YouTube (Moe LRD, Cracked)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTK)",
+      "removed": "YouTube (Moe SY)"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "kept": "YouTube (Moe YTPlus, Temp Free)",
+      "removed": "YouTube (Moe YTK)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe Multi)",
+      "removed": "Instagram (AC)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe Multi)",
+      "removed": "Instagram (BH)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe Multi)",
+      "removed": "Instagram (DL, Cracked)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe Multi)",
+      "removed": "Instagram (IGFormat)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe Multi)",
+      "removed": "Instagram (INK Plus)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe Multi)",
+      "removed": "Instagram (LRD, Cracked)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe RyukGram)",
+      "removed": "Instagram (Moe Multi)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe RyukGram)",
+      "removed": "Instagram (NYX B2, Cracked)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe RyukGram)",
+      "removed": "Instagram (NYX B4)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe RyukGram)",
+      "removed": "Instagram (Regram)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Moe RyukGram)",
+      "removed": "Instagram (Rocket, Cracked)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (SC)",
+      "removed": "Instagram (Moe RyukGram)"
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "kept": "Instagram (Theta)",
+      "removed": "Instagram (SC)"
+    },
+    {
+      "bundleIdentifier": "tv.twitch",
+      "kept": "Twitch (Adfree, Moe Control)",
+      "removed": "Twitch"
+    },
+    {
+      "bundleIdentifier": "tv.twitch",
+      "kept": "Twitch (Tweach)",
+      "removed": "Twitch (Adfree, Moe Control)"
+    },
+    {
+      "bundleIdentifier": "tv.twitch",
+      "kept": "Twitch (Moe TwitchControl)",
+      "removed": "Twitch (Tweach)"
+    },
+    {
+      "bundleIdentifier": "tv.twitch",
+      "kept": "Twitch (Twitchv, Moe Tweach)",
+      "removed": "Twitch (Moe TwitchControl)"
+    }
+  ]
+}
