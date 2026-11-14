@@ -1,0 +1,420 @@
+{
+  "apiVersion": "v2",
+  "apps": [
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "com.grailr.CARROTweather",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/carrot.png",
+      "localizedDescription": "Carrot 6.5 Pro Moe with Working Widgets for iOS, listed on Moe's App Hub with version, file size, and install details. L...",
+      "name": "Carrot",
+      "screenshots": [],
+      "subtitle": "Weather app, Moe Pro patch",
+      "versions": [
+        {
+          "date": "2026-03-26",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/carrot-6.5/carrot.ipa",
+          "localizedDescription": "requires the use of a custom entitlement file from your cert. so get your mobile provision, name it \"entitlements.text\" now start copying all of your entitlements starting with \"dict\" and ending with \"dict\". now paste that into an Ai bot and say (Please convert the code I send here into XML format. Also, remove all entries related to iCloud and Ubiquity. Leave the rest of the code unchanged. Then, send me the complete modified code directly here in the chat. Do not add a DOCTYPE or any similar declarations - only include the part of the code that I have provided.) now paste that into a file named \"entitlements.xml\" or use textastic app to do it. sign in esign with that new entitlements.xml",
+          "minOSVersion": "15.0",
+          "size": 269355072,
+          "version": "6.5"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "com.itimeteo.webssh",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/webssh.png",
+      "localizedDescription": "Webssh 33.2 Pro for iOS.",
+      "name": "Webssh",
+      "screenshots": [],
+      "subtitle": "SSH client, Pro patch",
+      "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-33.2/webssh.ipa",
+          "localizedDescription": "Webssh 33.2 Pro for iOS.",
+          "minOSVersion": "26.0",
+          "size": 105169513,
+          "version": "33.2"
+        },
+        {
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-33.0/webssh.ipa",
+          "localizedDescription": "Webssh 33.0 Pro for iOS.",
+          "minOSVersion": "26.0",
+          "size": 105780395,
+          "version": "33.0"
+        },
+        {
+          "date": "2026-08-18",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-32.7/webssh.ipa",
+          "localizedDescription": "Webssh 32.7 Pro for iOS.",
+          "minOSVersion": "26.0",
+          "size": 99163453,
+          "version": "32.7"
+        },
+        {
+          "date": "2026-08-10",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-32.6/webssh.ipa",
+          "localizedDescription": "Webssh 32.6 Pro for iOS.",
+          "minOSVersion": "26.0",
+          "size": 96147727,
+          "version": "32.6"
+        },
+        {
+          "date": "2026-06-04",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-32.1/webssh.ipa",
+          "localizedDescription": "Webssh 32.1 Pro for iOS.",
+          "minOSVersion": "26.0",
+          "size": 92316394,
+          "version": "32.1"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
+      "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+      "name": "MoeReddit",
+      "screenshots": [],
+      "subtitle": "Reddit client, MoeReddit build",
+      "versions": [
+        {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.45.1/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 144354917,
+          "version": "2026.45.1 (4.7.1)"
+        },
+        {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.45.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 144323747,
+          "version": "2026.45.0 (4.7.1)"
+        },
+        {
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.44.1/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 150028516,
+          "version": "2026.44.1 (4.6.1)"
+        },
+        {
+          "date": "2026-11-03",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.44.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 150029206,
+          "version": "2026.44.0 (4.6.1)"
+        },
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.43.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 147922261,
+          "version": "2026.43.0 (4.6.1)"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/infuse-moe-plus.png",
+      "localizedDescription": "",
+      "name": "Infuse (Moe Plus)",
+      "screenshots": [],
+      "subtitle": "Media player, Moe Plus patch",
+      "versions": [
+        {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.10/infuse-moe-plus.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "18.0",
+          "size": 98574211,
+          "version": "8.5.10 (2.6)"
+        },
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.9/infuse-moe-plus.ipa",
+          "localizedDescription": "Infuse 8.5.9 2.6 Moe Plus for iOS.",
+          "minOSVersion": "18.0",
+          "size": 98520724,
+          "version": "8.5.9 (2.6)"
+        },
+        {
+          "date": "2026-10-16",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.8/infuse-moe-plus.ipa",
+          "localizedDescription": "Infuse 8.5.8 2.6 Moe Plus for iOS.",
+          "minOSVersion": "18.0",
+          "size": 99441864,
+          "version": "8.5.8 (2.6)"
+        },
+        {
+          "date": "2026-10-13",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.7/infuse-moe-plus.ipa",
+          "localizedDescription": "Infuse 8.5.7 2.6 Moe Plus for iOS.",
+          "minOSVersion": "18.0",
+          "size": 99441914,
+          "version": "8.5.7 (2.6)"
+        },
+        {
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.6/infuse-moe-plus.ipa",
+          "localizedDescription": "Infuse 8.5.6 2.6 Moe Plus for iOS.",
+          "minOSVersion": "18.0",
+          "size": 99183211,
+          "version": "8.5.6 (2.6)"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-ytplus-temp-free.png",
+      "localizedDescription": "",
+      "name": "YouTube (Moe YTPlus, Temp Free)",
+      "screenshots": [],
+      "subtitle": "YTPlus tweak build",
+      "versions": [
+        {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.45.4/youtube-ytplus-temp-free.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "17.0",
+          "size": 153526116,
+          "version": "21.45.4 (5.2.1)"
+        },
+        {
+          "date": "2026-11-03",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.44.4/youtube-ytplus-temp-free.ipa",
+          "localizedDescription": "Youtube 21.44.4 Moe YTPlus 5.2.1 Free for iOS.",
+          "minOSVersion": "17.0",
+          "size": 152939189,
+          "version": "21.44.4 (5.2.1)"
+        },
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.43.5/youtube-ytplus-temp-free.ipa",
+          "localizedDescription": "Youtube 21.43.5 Moe YTPlus 5.2.1 Free for iOS.",
+          "minOSVersion": "17.0",
+          "size": 151747685,
+          "version": "21.43.5 (5.2.1)"
+        },
+        {
+          "date": "2026-10-22",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.42.4/youtube-ytplus-temp-free.ipa",
+          "localizedDescription": "Youtube 21.42.4 Moe YTPlus 5.2.1 Free for iOS.",
+          "minOSVersion": "17.0",
+          "size": 151222498,
+          "version": "21.42.4 (5.2.1)"
+        },
+        {
+          "date": "2026-10-13",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.41.5/youtube-ytplus-temp-free.ipa",
+          "localizedDescription": "Youtube 21.41.5 Moe YTPlus 5.2.1 Free for iOS.",
+          "minOSVersion": "17.0",
+          "size": 168144274,
+          "version": "21.41.5 (5.2.1)"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
+      "localizedDescription": "",
+      "name": "YouTube Music",
+      "screenshots": [],
+      "subtitle": "Ultimate Enhanced tweak build",
+      "versions": [
+        {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.45.2/youtube-music.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "17.0",
+          "size": 109424330,
+          "version": "9.45.2 (2.4.1)"
+        },
+        {
+          "date": "2026-11-03",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.44.2/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.44.2 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "17.0",
+          "size": 110662882,
+          "version": "9.44.2 (2.4.1)"
+        },
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.43.2/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.43.2 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "17.0",
+          "size": 110030324,
+          "version": "9.43.2 (2.4.1)"
+        },
+        {
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.42.2/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.42.2 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "17.0",
+          "size": 109611808,
+          "version": "9.42.2 (2.4.1)"
+        },
+        {
+          "date": "2026-10-13",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.41.2/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.41.2 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "17.0",
+          "size": 110880317,
+          "version": "9.41.2 (2.4.1)"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-theta.png",
+      "localizedDescription": "",
+      "name": "Instagram (Theta)",
+      "screenshots": [],
+      "subtitle": "Theta tweak build",
+      "versions": [
+        {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-455.0.0/instagram-theta.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "16.3",
+          "size": 370004853,
+          "version": "455.0.0 (5.0)"
+        },
+        {
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-454.1.0/instagram-theta.ipa",
+          "localizedDescription": "Instagram 454.1.0 Theta 5.0 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 368413507,
+          "version": "454.1.0 (5.0)"
+        },
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-453.0.0/instagram-theta.ipa",
+          "localizedDescription": "Instagram 453.0.0 Theta 5.0 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 347315504,
+          "version": "453.0.0 (5.0)"
+        },
+        {
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-452.0.1/instagram-theta.ipa",
+          "localizedDescription": "Instagram 452.0.1 Theta 5.0 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 341783097,
+          "version": "452.0.1 (5.0)"
+        },
+        {
+          "date": "2026-10-13",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-451.0.0/instagram-theta.ipa",
+          "localizedDescription": "Instagram 451.0.0 Theta 5.0 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 336772970,
+          "version": "451.0.0 (5.0)"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "Moe Apps",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
+      "localizedDescription": "",
+      "name": "Twitch (Twitchv, Moe Tweach)",
+      "screenshots": [],
+      "subtitle": "Tweach tweak build",
+      "versions": [
+        {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-32.0/twitchv-tweach.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "16.4",
+          "size": 206878891,
+          "version": "32.0 (2.4.1)"
+        },
+        {
+          "date": "2026-11-03",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.9/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.9 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 205992675,
+          "version": "31.9 (2.4.1)"
+        },
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.8/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.8 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 205662667,
+          "version": "31.8 (2.4.1)"
+        },
+        {
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.7/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.7 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 204246616,
+          "version": "31.7 (2.4.1)"
+        },
+        {
+          "date": "2026-10-16",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.6.2/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.6.2 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 204048013,
+          "version": "31.6.2 (2.4.1)"
+        }
+      ]
+    }
+  ],
+  "description": "Scraped and re-hosted daily — apps are re-downloaded and republished whenever a new version appears on the source site.",
+  "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moe_icon.png",
+  "identifier": "com.mountainofpenguin.moealtstore",
+  "name": "Moe AltStore",
+  "news": [],
+  "subtitle": "Automated mirror of moe.mohkg1017.pro app mods",
+  "website": "https://github.com/MountainofPenguin/moe-altstore"
+}
