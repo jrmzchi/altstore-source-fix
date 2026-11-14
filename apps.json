@@ -153,7 +153,8 @@
           "localizedDescription": "",
           "minOSVersion": "18.0",
           "size": 98574211,
-          "version": "8.5.10 (2.6)"
+          "version": "8.5.10",
+          "buildVersion": "8.5.5815"
         },
         {
           "date": "2026-10-27",
