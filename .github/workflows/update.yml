@@ -20,13 +20,15 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Update and validate
         run: python scripts/update.py
+      - name: Verify Infuse IPA version against Info.plist
+        run: python scripts/verify_ipa.py
       - name: Commit if changed
         run: |
-          if git diff --quiet -- apps.json dedup-report.json && [ -z "$(git ls-files --others --exclude-standard apps.json dedup-report.json)" ]; then
+          if git diff --quiet -- apps.json dedup-report.json ipa-verification.json && [ -z "$(git ls-files --others --exclude-standard apps.json dedup-report.json ipa-verification.json)" ]; then
             echo 'No changes'; exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add apps.json dedup-report.json
+          git add apps.json dedup-report.json ipa-verification.json
           git commit -m 'chore: sync validated AltStore source'
           git push
